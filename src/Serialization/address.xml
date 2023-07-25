@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<address>
+    <country>
+        <building>1</building>
+        <city>Kyiv</city>
+        <name>Ukraine</name>
+        <street>Khreshchatyk</street>
+    </country>
+    <country>
+        <building>2</building>
+        <city>Graz</city>
+        <name>Austria</name>
+        <street>Stalhofstrasse</street>
+    </country>
+</address>
